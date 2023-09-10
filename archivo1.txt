@@ -1,2 +1,4 @@
 Lineas iniciales de archivo1 para remoto
 Cambios en el repositorio local
+
+Seguimos haciendo modificaciones en la rama-remoto
